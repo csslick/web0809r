@@ -1,16 +1,32 @@
 [
     { 
-      "title": "실습: 나비 이미지 자르기",
-      "date": "2018-00-00",
-      "text": "text here...11",
-      "img1": "https://images.pexels.com/photos/53957/striped-core-butterflies-butterfly-brown-53957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      "img2": "http://placehold.it/100x100"
+        "title": "과제명: 웹 사이트 사례 분석",
+        "date": "2018-10-11",
+        "text1": "1) 정보가 쉽게 전달되도록 구성된 웹 디자인",
+        "text2": "2) 사용자 참여를 잘 끌어낸 웹 디자인",
+        "text3": "제출: 카페 > 과제제출 > 디지털웹앱디자인",
+        "text4": "ppt로 작성하여 제출하시오",
+        "img1": "",
+        "img2": ""
+      },    
+    { 
+        "title": "실습: 나비 이미지 자르기",
+        "date": "2018-10-11",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "img1": "https://images.pexels.com/photos/53957/striped-core-butterflies-butterfly-brown-53957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "img2": ""
     },
     { 
-      "title": "과제: 서울타워를 주제로한 타이틀 배경",
-      "date": "2018-10-06",
-      "text": "text here...22",
-      "img1": "https://images.pexels.com/photos/53957/striped-core-butterflies-butterfly-brown-53957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      "img2": "http://placehold.it/100x100"
+        "title": "과제: 서울타워를 주제로한 타이틀 배경",
+        "date": "2018-10-06",
+        "text1": "제출파일: psd파일 첨부, 결과물은 사진 첨부",
+        "text2": "참고: 포토샵 교재 76p",
+        "text3": "제출: 카페 > 과제제출 > 디지털웹앱디자인",
+        "text4": "",
+        "img1": "https://d3h30waly5w5yx.cloudfront.net/images/tour/pictures/n-seoul-tower-spring.jpg",
+        "img2": ""
     }
 ]
